@@ -211,6 +211,9 @@ The Mythical Man-Month: Essays on Software Engineering
 - [Amazon](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_4?s=books&ie=UTF8&qid=1539402410&sr=1-4&keywords=deep+learning)
 - ISBN: 978-0262035613
 
+*PHPNotesForProfessionals*
+https://books.goalkicker.com/PHPBook/
+
 This list was compiled from multiple suggestion threads on Reddit and Stackoverflow. 
 
 Please feel free to add more that you have found useful!
